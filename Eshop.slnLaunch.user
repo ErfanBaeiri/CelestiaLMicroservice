@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Src\\Services\\IDPService\\IDP.Api\\IDP.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Src\\Services\\notficationservice\\VerticalNotfication.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

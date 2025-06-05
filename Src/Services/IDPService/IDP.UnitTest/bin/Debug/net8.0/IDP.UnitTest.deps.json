@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IDP.UnitTest/1.0.0": {
+        "runtime": {
+          "IDP.UnitTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDP.UnitTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

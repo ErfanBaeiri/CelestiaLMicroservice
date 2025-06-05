@@ -1,0 +1,12 @@
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.deps.json
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.dll
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.pdb
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.AssemblyInfoInputs.cache
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.AssemblyInfo.cs
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.csproj.CoreCompileInputs.cache
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.sourcelink.json
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.dll
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\obj\Debug\net8.0\refint\IDP.Domain.dll
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.pdb
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.Domain\obj\Debug\net8.0\ref\IDP.Domain.dll

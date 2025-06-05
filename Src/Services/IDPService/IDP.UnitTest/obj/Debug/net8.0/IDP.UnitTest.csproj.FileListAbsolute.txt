@@ -1,0 +1,12 @@
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\bin\Debug\net8.0\IDP.UnitTest.deps.json
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\bin\Debug\net8.0\IDP.UnitTest.dll
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\bin\Debug\net8.0\IDP.UnitTest.pdb
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\obj\Debug\net8.0\IDP.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\obj\Debug\net8.0\IDP.UnitTest.AssemblyInfoInputs.cache
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\obj\Debug\net8.0\IDP.UnitTest.AssemblyInfo.cs
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\obj\Debug\net8.0\IDP.UnitTest.csproj.CoreCompileInputs.cache
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\obj\Debug\net8.0\IDP.UnitTest.sourcelink.json
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\obj\Debug\net8.0\IDP.UnitTest.dll
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\obj\Debug\net8.0\refint\IDP.UnitTest.dll
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\obj\Debug\net8.0\IDP.UnitTest.pdb
+D:\projects\EshopProject\Eshop\Src\Services\IDPService\IDP.UnitTest\obj\Debug\net8.0\ref\IDP.UnitTest.dll

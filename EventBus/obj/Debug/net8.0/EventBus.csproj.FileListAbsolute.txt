@@ -1,0 +1,12 @@
+D:\projects\EshopProject\Eshop\EventBus\bin\Debug\net8.0\EventBus.deps.json
+D:\projects\EshopProject\Eshop\EventBus\bin\Debug\net8.0\EventBus.dll
+D:\projects\EshopProject\Eshop\EventBus\bin\Debug\net8.0\EventBus.pdb
+D:\projects\EshopProject\Eshop\EventBus\obj\Debug\net8.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EshopProject\Eshop\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfoInputs.cache
+D:\projects\EshopProject\Eshop\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfo.cs
+D:\projects\EshopProject\Eshop\EventBus\obj\Debug\net8.0\EventBus.csproj.CoreCompileInputs.cache
+D:\projects\EshopProject\Eshop\EventBus\obj\Debug\net8.0\EventBus.sourcelink.json
+D:\projects\EshopProject\Eshop\EventBus\obj\Debug\net8.0\EventBus.dll
+D:\projects\EshopProject\Eshop\EventBus\obj\Debug\net8.0\refint\EventBus.dll
+D:\projects\EshopProject\Eshop\EventBus\obj\Debug\net8.0\EventBus.pdb
+D:\projects\EshopProject\Eshop\EventBus\obj\Debug\net8.0\ref\EventBus.dll

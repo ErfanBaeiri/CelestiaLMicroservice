@@ -1,0 +1,13 @@
+D:\projects\EshopProject\Eshop\Src\Common\Auth\bin\Debug\net8.0\Auth.deps.json
+D:\projects\EshopProject\Eshop\Src\Common\Auth\bin\Debug\net8.0\Auth.dll
+D:\projects\EshopProject\Eshop\Src\Common\Auth\bin\Debug\net8.0\Auth.pdb
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\Auth.sourcelink.json
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\Auth.dll
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\refint\Auth.dll
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\Auth.pdb
+D:\projects\EshopProject\Eshop\Src\Common\Auth\obj\Debug\net8.0\ref\Auth.dll
