@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "IDP.Api.Controllers.V1.UserController",
+    "Method": "Insert",
+    "RelativePath": "api/v1/user/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userCommand",
+        "Type": "IDP.Application.Command.User.UserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

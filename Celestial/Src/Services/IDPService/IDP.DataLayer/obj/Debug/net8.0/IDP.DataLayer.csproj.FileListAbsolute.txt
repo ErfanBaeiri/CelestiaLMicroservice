@@ -1,0 +1,16 @@
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\bin\Debug\net8.0\IDP.DataLayer.deps.json
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\bin\Debug\net8.0\IDP.DataLayer.dll
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\bin\Debug\net8.0\IDP.DataLayer.pdb
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\bin\Debug\net8.0\IDP.Domain.dll
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\bin\Debug\net8.0\IDP.Domain.pdb
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\IDP.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\IDP.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\IDP.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\IDP.DataLayer.AssemblyInfo.cs
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\IDP.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\IDP.DataLayer.sourcelink.json
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\IDP.Data.3E32A02A.Up2Date
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\IDP.DataLayer.dll
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\refint\IDP.DataLayer.dll
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\IDP.DataLayer.pdb
+C:\Users\Tolu\Documents\GitHub\CelestiaLMicroservice\Celestial\Src\Services\IDPService\IDP.DataLayer\obj\Debug\net8.0\ref\IDP.DataLayer.dll
